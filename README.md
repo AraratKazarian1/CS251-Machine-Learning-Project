@@ -7,20 +7,24 @@ This project focuses on analyzing gene expression data from colorectal cancer sa
 ### Goals
 
 Data Exploration and Cleaning:
+
 1. Understand how the data is structured and distributed.
 2. Clean and preprocess the data to make it ready for analysis.
 
 Dimensionality Reduction:
-1.Reduce the complexity of gene expression data while maintaining crucial information.
+
+1. Reduce the complexity of gene expression data while maintaining crucial information.
 2. Visualise the data to identify underlying patterns or clusters.
 
 Machine Learning Modeling:
-1.Build and evaluate models to classify cancer stages and identify important features.
-2.Use clustering algorithms to investigate possible gene expression groups.
+
+1. Build and evaluate models to classify cancer stages and identify important features.
+2. Use clustering algorithms to investigate possible gene expression groups.
 
 Insights and Interpretations:
-1.Extract meaningful insights from the data analysis and modeling results.
-2.Provide interpretations that can help us comprehend colorectal cancer biology.
+
+1. Extract meaningful insights from the data analysis and modeling results.
+2. Provide interpretations that can help us comprehend colorectal cancer biology.
 
 ### Table of Contents
 
